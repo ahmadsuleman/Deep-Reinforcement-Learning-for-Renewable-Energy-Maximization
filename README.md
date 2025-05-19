@@ -27,8 +27,11 @@ DOI: [10.1109/ACCESS.2023.3302895](https://doi.org/10.1109/ACCESS.2023.3302895)
 ---
 # Project Overview
 
-
-![Project Overview](/Energy_Sharing_V2/Results/Images/overview.jpg)
+<div style="display: flex; justify-content: space-around;">
+  <img src="/Energy_Sharing_V2/Results/Images/overview.gif" alt="Sharing Strcture" width="300" />
+  <img src="/Energy_Sharing_V2/Results/Images/overview1.gif" alt="Island Structure" width="300" />
+  <img src="/Energy_Sharing_V2/Results/Images/overview2.gif" alt="Battery Swaping" width="300" />
+</div>
 
 ## 📘 Project Scope
 
