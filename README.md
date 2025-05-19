@@ -26,8 +26,7 @@ DOI: [10.1109/ACCESS.2023.3302895](https://doi.org/10.1109/ACCESS.2023.3302895)
 
 ---
 # Project Overview
-
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; background-color:white;">
   <img src="/Energy_Sharing_V2/Results/Images/overview.gif" alt="Sharing Strcture" width="500" height=250 />
   <img src="/Energy_Sharing_V2/Results/Images/overview2.gif" alt="Battery Swaping" width="500" height=250/>
   <img src="/Energy_Sharing_V2/Results/Images/overview1.gif" alt="Island Structure" width="500" height=250/>
