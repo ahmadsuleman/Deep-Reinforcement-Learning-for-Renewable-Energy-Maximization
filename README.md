@@ -28,10 +28,10 @@ DOI: [10.1109/ACCESS.2023.3302895](https://doi.org/10.1109/ACCESS.2023.3302895)
 # Project Overview
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="/Energy_Sharing_V2/Results/Images/overview.gif" alt="Sharing Strcture" width="500" height=300 />
-  <img src="/Energy_Sharing_V2/Results/Images/overview2.gif" alt="Battery Swaping" width="500" height=300/>
-  <img src="/Energy_Sharing_V2/Results/Images/overview1.gif" alt="Island Structure" width="500" height=300/>
-  <img src="/Energy_Sharing_V2/Results/Images/1_Functionality_Profile_1000.png" alt="Island Structure" width="500" height=300 />
+  <img src="/Energy_Sharing_V2/Results/Images/overview.gif" alt="Sharing Strcture" width="500" height=200 />
+  <img src="/Energy_Sharing_V2/Results/Images/overview2.gif" alt="Battery Swaping" width="500" height=200/>
+  <img src="/Energy_Sharing_V2/Results/Images/overview1.gif" alt="Island Structure" width="500" height=200/>
+  <img src="/Energy_Sharing_V2/Results/Images/1_Functionality_Profile_1000.png" alt="Island Structure" width="500" height=200 style="background-color:white />
 </div>
 
 ## 📘 Project Scope
