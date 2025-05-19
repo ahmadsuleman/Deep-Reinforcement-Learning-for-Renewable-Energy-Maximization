@@ -188,8 +188,18 @@ This repository contains implementations of various deep reinforcement learning 
 
 ## ✅ How to Get Started
 
-1. **Install requirements**:
+- **Install requirements**:
    ```bash
+   
+   git clone https://github.com/eagle-Ji/Deep-Reinforcement-Learning-for-Renewable-Energy-Maximization
+   cd  Deep-Reinforcement-Learning-for-Renewable-Energy-Maximization
    pip install -r requirements.txt
+   ```
+   
+## References
+
+- Amin, M. A., Suleman, A., Waseem, M., Iqbal, T., Aziz, S., Faiz, M. T., ... & Saleh, A. M. (2023). Renewable energy maximization for pelagic islands network of microgrids through battery swapping using deep reinforcement learning. *IEEE Access*, 11, 86196-86213. [DOI: 10.1109/ACCESS.2023.3302895](https://doi.org/10.1109/ACCESS.2023.3302895)
+
+   
 
 
