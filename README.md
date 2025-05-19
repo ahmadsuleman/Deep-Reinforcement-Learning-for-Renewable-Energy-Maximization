@@ -4,8 +4,8 @@ This repository contains the full implementation of the project proposed in our 
 
 **"Renewable Energy Maximization for Pelagic Islands Network of Microgrids Through Battery Swapping Using Deep Reinforcement Learning"** 
 
-- **"Abstract"**
-The study proposes an energy management system of pelagic islands network microgrids
+**"Abstract"**
+- The study proposes an energy management system of pelagic islands network microgrids
 (PINMGs) based on reinforcement learning (RL) under the effect of environmental factors. Furthermore, the
 day-ahead standard scheduling proposes an energy-sharing framework across islands by presenting a novel
 method to optimize the use of renewable energy (RE). Energy sharing across islands is critical for powering
