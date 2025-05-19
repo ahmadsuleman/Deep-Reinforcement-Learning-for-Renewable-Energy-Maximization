@@ -2,11 +2,33 @@
 
 This repository contains the full implementation of the project proposed in our research article:
 
-**"Renewable Energy Maximization for Pelagic Islands Network of Microgrids Through Battery Swapping Using Deep Reinforcement Learning"**  
+**"Renewable Energy Maximization for Pelagic Islands Network of Microgrids Through Battery Swapping Using Deep Reinforcement Learning"** 
+** Abstract **
+The study proposes an energy management system of pelagic islands network microgrids
+(PINMGs) based on reinforcement learning (RL) under the effect of environmental factors. Furthermore, the
+day-ahead standard scheduling proposes an energy-sharing framework across islands by presenting a novel
+method to optimize the use of renewable energy (RE). Energy sharing across islands is critical for powering
+isolated islands that need electricity owing to a lack of renewable energy supplies to fulfill local demand.
+A two-stage cooperative multi-agent deep RL solution based on deep Q-learning (DQN) with central RL
+and island agents (IA) spread over several islands has been presented to tackle this difficulty. Because of its
+in-depth learning potential, deep RL-based systems effectively train and optimize their behaviors across
+several epochs compared to other machine learning or traditional methods. As a result, the centralized
+RL-based problem of scheduling charge battery sharing from resource-rich islands (SI) to load island
+networks (LIN) was addressed utilizing dueling DQN. Furthermore, due to its precise tracking, the case
+study compared the accuracy of various DQN approaches and further scheduling based on the dueling DQN.
+The need for LIN is also stochastic because of variable demand and charging patterns. Hence, the simulation
+results, including energy scheduling through the ship, are confirmed by optimizing RE consumption via
+sharing across several islands, and the effectiveness of the proposed method is validated by state and action
+perturbation to guarantee robustness.
+
 Published in *IEEE Access*, 2023.  
 DOI: [10.1109/ACCESS.2023.3302895](https://doi.org/10.1109/ACCESS.2023.3302895)
 
 ---
+# Project Overview
+
+
+![Project Overview](Energy_Sharing_V2/Results/Images/overview.png)
 
 ## 📘 Project Scope
 
