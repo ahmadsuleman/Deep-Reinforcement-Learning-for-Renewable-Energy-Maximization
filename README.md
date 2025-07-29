@@ -223,8 +223,16 @@ This repository contains implementations of various deep reinforcement learning 
    ```
    
 ## References
-
-- Amin, M. A., Suleman, A., Waseem, M., Iqbal, T., Aziz, S., Faiz, M. T., ... & Saleh, A. M. (2023). Renewable energy maximization for pelagic islands network of microgrids through battery swapping using deep reinforcement learning. *IEEE Access*, 11, 86196-86213. [DOI: 10.1109/ACCESS.2023.3302895](https://doi.org/10.1109/ACCESS.2023.3302895)
+```bibtex
+@article{amin2023renewable,
+  title={Renewable energy maximization for pelagic islands network of microgrids through battery swapping using deep reinforcement learning},
+  author={Amin, M Asim and Suleman, Ahmad and Waseem, Muhammad and Iqbal, Taosif and Aziz, Saddam and Faiz, Muhammad Talib and Zulfiqar, Lubaid and Saleh, Ahmed Mohammed},
+  journal={IEEE access},
+  volume={11},
+  pages={86196--86213},
+  year={2023},
+  publisher={IEEE}
+}
 
    
 
